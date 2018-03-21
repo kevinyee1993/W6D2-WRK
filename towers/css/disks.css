@@ -1,0 +1,19 @@
+ul li {
+  border: 10px solid white;
+  margin: 5px auto;
+}
+
+.disc0 {
+  border: 10px solid pink;
+  width: 50px;
+}
+
+.disc1 {
+  border: 10px solid green;
+  width: 100px;
+}
+
+.disc2 {
+  border: 10px solid blue;
+  width: 150px;
+}
